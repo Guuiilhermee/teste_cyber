@@ -8,13 +8,16 @@
 
 body{
     font-family: "Poppins", sans-serif;
+    background-color: gray;
 }
 
 h1{
     text-align: center;
+    color: #fff;
 }
 
-p{
+.texto{
     text-align: center;
+    color: #fff;
+    margin-top: 1rem;
 }
-
